@@ -1,6 +1,13 @@
 # Old TUF
-This project is clone of old [TUF](https://takeuforward.org/) with GFG and other links attached.
 
+This project is a clone of the original [Take U Forward (TUF)](https://takeuforward.org/) platform.  
+It contains DSA sheets, practice problems, and solutions from platforms like **LeetCode** and **GeeksforGeeks**.
 
-## Please Contribute
-This project needs help as you can clearly see, so please contribute to make it easy for other people to learn DSA.
+---
+
+## How to Use
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Vamshi3821/Old-Tuf.git
